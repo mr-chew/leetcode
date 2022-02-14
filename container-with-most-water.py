@@ -5,7 +5,7 @@
 # left pointer initialized to the first elements of the list
 # right pointer initialized to the last elements of the list
 # current max area initialized to 0
-# height will the lower of the two elements at the left and right pointers
+# height will be the lower of the two elements at the left and right pointers
 # width will be the difference between the right pointer and left pointer
 # compute the area between the 2 pointer and compare result with current max area, if result is greater than current max area, update current max area to result
 # compare the height of the 2 pointer and shift the pointer that is shorter 
